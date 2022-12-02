@@ -204,7 +204,7 @@ const StyledProject = styled.div`
   }
 `;
 
-const Featured = ({ data }) => {
+const Innovations = ({ data }) => {
   const featuredProjects = data.filter(({ node }) => node);
 
   const revealTitle = useRef(null);
@@ -215,8 +215,8 @@ const Featured = ({ data }) => {
   }, []);
 
   return (
-    <StyledContainer id="featured">
-      <Heading ref={revealTitle}>Some Things I've Built</Heading>
+    <StyledContainer id="innovations">
+      <Heading ref={revealTitle}>Innovation Experiences</Heading>
 
       <div>
         {featuredProjects &&
@@ -285,8 +285,8 @@ const Featured = ({ data }) => {
   );
 };
 
-Featured.propTypes = {
+Innovations.propTypes = {
   data: PropTypes.array.isRequired,
 };
 
-export default Featured;
+export default Innovations;

@@ -144,9 +144,9 @@ const Projects = ({ data }) => {
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
-    <StyledContainer>
+    <StyledContainer id="projects">
       <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
-      <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
+      <StyledArchiveLink to="/archive/" ref={revealArchiveLink}>
         View Complete List of Projects/Codes
       </StyledArchiveLink>
 
