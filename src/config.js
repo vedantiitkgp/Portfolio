@@ -6,6 +6,8 @@ module.exports = {
     'Vedant Saraswat,vedantsaraswat, software engineer, machine learning engineer, javascript, nlp, iit, kharagpur',
   siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
+  googleAnalyticsID: 'UA-45666519-2',
+  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Vedant Saraswat',
   location: 'Indore, India',
   email: 'vedantntpc@gmail.com',
