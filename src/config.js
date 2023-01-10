@@ -6,7 +6,7 @@ module.exports = {
     'Vedant Saraswat,vedantsaraswat, software engineer, machine learning engineer, javascript, nlp, iit, kharagpur',
   siteUrl: 'https://vedantiitkgp.github.io/Portfolio/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'G-B5GJCFVZHS',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Vedant Saraswat',
   location: 'Singrauli, India',
