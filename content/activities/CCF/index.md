@@ -1,7 +1,7 @@
 ---
 date: '2020-07-01'
 title: 'Research Volunteer'
-company: 'Carbon Copies Foundation'
+company: 'Carbon Copies'
 location: remote
 range: 'Feb 2020 - Jun 2020'
 url: 'https://carboncopies.org/'
