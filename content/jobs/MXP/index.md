@@ -12,4 +12,4 @@ url: 'https://www.mxplayer.in/'
 - Created a User Authentication and subscription flow along with Rest API support on Java and [payment service Just-pay]() for user management on the platform.
 - Proposed and programmed an [machine learning recommendation]() system that handles functionalities such as Continue Watching and Content Recommendation.
 - Constructed a large number of internal games modules that handle continuous integration and deploy- ment (CI/CD) of Games correlating their versions with GitHub API.
-- View [Offer Letter and Awards](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing).
+- View [Offer Letter and Awards](https://drive.google.com/drive/folders/1SXNW1PrWbi2aoBu9DI9TlyFevYQaaT5J?usp=share_link).

@@ -4,12 +4,12 @@ module.exports = {
     'Vedant Saraswat is an Software Engineer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Vedant Saraswat,vedantsaraswat, software engineer, machine learning engineer, javascript, nlp, iit, kharagpur',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://vedantiitkgp.github.io/Portfolio/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Vedant Saraswat',
-  location: 'Indore, India',
+  location: 'Singrauli, India',
   email: 'vedantntpc@gmail.com',
   github: 'https://github.com/vedantiitkgp',
   twitterHandle: '@',
@@ -52,10 +52,6 @@ module.exports = {
     {
       name: 'Projects',
       url: '/#projects',
-    },
-    {
-      name: 'Acheivements',
-      url: '/#acheivements',
     },
     {
       name: 'Activities',

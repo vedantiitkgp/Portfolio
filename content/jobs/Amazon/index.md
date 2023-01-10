@@ -11,4 +11,4 @@ url: 'https://amazon.in/'
 - Developed a back-end module in [Spring]() for improving errors for clients joining the platform in fleets.
 - Handled multiple databases and client sheets of Sable using [Postgres Database]() to monitor and [display discrepancies]() between container and Database API Calls on front-end built using JSP and Vanilla JS.
 - Designed an algorithm to assimilate the TPS parameters and decreased the latency for [TCDA portal]().
-- View [Completion Certificate](https://drive.google.com/file/d/1W7c94PXLUn6LM4JOJuC-hKAgOknh6-U_/view?usp=sharing)
+- View [Completion Certificate](https://drive.google.com/file/d/1qLY8W7XmyifiXnwu246nbZFPcbTq00Un/view?usp=sharing)
