@@ -17,7 +17,7 @@ const StyledFlexContainer = styled.div`
 `;
 const StyledContent = styled.div`
   width: 60%;
-  max-width: 480px;
+  max-width: 680px;
   ${media.tablet`width: 100%;`};
   a {
     ${mixins.inlineLink};
