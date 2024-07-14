@@ -27,7 +27,5 @@ I'm expanding my practical experience through a Machine Learning internship at [
 
 My diverse experiences across academia, industry, and research have equipped me with a unique perspective on tackling complex technological challenges. I'm passionate about leveraging my skills in artificial intelligence and machine learning to drive innovation and create meaningful impact in the field of computer science.
 
-That's who I am - Vedant Saraswat: a computer scientist, mechanical innovator, and lifelong learner, always ready to push the boundaries of technology and make a lasting contribution to the field.
-
 Here are a few of the other activities that I love to do!
 
