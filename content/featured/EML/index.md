@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Optimization of LLM inference Accelration Frameworks'
+title: 'Optimization of LLM inference'
 cover: 'EML.jpg'
 external: 'https://drive.google.com/file/d/1FRjy9T0VqxjLL1aZaL8Y9QAUQud8hoye/view?usp=sharing'
 tech:

@@ -1,11 +1,10 @@
 ---
 date: '2'
-title: 'IR and RL Powered UCI Search Engine'
+title: 'IR and RL Based Search Engine'
 cover: 'IRS.png'
 external: 'https://drive.google.com/file/d/1rVSdnJ3eG0qfQQYKB_Dlrchvky3DPrdm/view?usp=sharing'
 tech:
   - PyTorch
-  - Hugging face
   - Langchain
   - Reinforcement Learning
 showInProjects: true
