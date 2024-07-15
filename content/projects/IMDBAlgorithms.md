@@ -1,7 +1,7 @@
 ---
 date: '2024-01-01'
 title: 'IMDB Review Sentiment Analysis'
-github: ''
+external: 'https://docs.google.com/document/d/1y88eXDLB7mxQxYOqcfV3mvY3jc6ZvqWjYpOEXZR344Y/edit?usp=sharing'
 tech:
   - Python
   - Scikit-learn
