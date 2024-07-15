@@ -1,7 +1,7 @@
 ---
 title: 'Hello Everyone , my name is'
 name: 'Vedant Saraswat'
-subtitle: 'An optimist who like living expereinces'
+subtitle: 'An optimist who like living experiences'
 buttonText: 'Get In Touch'
 ---
 I'm a CS Graduate Student from the University of California, Irvine and a computer scientist skilled in the fields of Explainable AI and Full Stack Development. I'm also a mechanical innovator, chess player, Antiquarian and lifelong learner.
