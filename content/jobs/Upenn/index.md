@@ -1,7 +1,7 @@
 ---
 date: '2023-08-01'
 title: 'NLP Researcher'
-company: 'Cognitive Computation Group'
+company: 'CCG, Upenn'
 location: Remote
 range: 'August 2023 - present'
 url: 'https://cogcomp.seas.upenn.edu/'

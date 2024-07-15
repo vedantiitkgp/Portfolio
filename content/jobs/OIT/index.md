@@ -1,7 +1,7 @@
 ---
 date: '2024-01-01'
 title: 'Data and Technology Fellow'
-company: 'Office of Information Technology'
+company: 'OIT, UCI'
 location: Irvine, California
 range: 'January 2024 - present'
 url: 'https://odit.uci.edu/initiatives/elp.php'
