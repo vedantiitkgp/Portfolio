@@ -2,7 +2,7 @@
 date: '2020-07-01'
 title: 'Machine Learning Intern'
 company: 'AgNext Research'
-location: remote
+location: Kharagpur, India
 range: 'Dec 2018 - Jan 2019'
 url: 'https://agnext.com/'
 ---

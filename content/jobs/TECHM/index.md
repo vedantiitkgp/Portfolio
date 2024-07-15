@@ -2,7 +2,7 @@
 date: '2020-09-21'
 title: 'Data Analytics Intern'
 company: 'Tech Mahindra'
-location: remote
+location: Noida, India
 range: 'May 2019 - June 2019'
 url: 'https://www.techmahindra.com/en-in/?f=192549630'
 ---

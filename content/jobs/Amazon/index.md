@@ -2,7 +2,7 @@
 date: '2021-05-19'
 title: 'Software Developer Intern'
 company: 'Amazon'
-location: remote
+location: Hydrabad, India
 range: 'April 2020 - June 2020'
 url: 'https://amazon.in/'
 ---
