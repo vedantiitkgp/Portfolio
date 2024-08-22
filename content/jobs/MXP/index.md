@@ -2,8 +2,8 @@
 date: '2021-06-11'
 title: 'Software Development Engineer'
 company: 'MX Player'
-location: remote
-range: 'June 2021 - present'
+location: Mumbai, India
+range: 'June 2021 - August 2023'
 url: 'https://www.mxplayer.in/'
 ---
 
