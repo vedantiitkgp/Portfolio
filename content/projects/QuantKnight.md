@@ -2,6 +2,7 @@
 date: '2026-09-14'
 title: 'QuantKnight'
 github: 'https://github.com/vedantiitkgp/quantknight'
+external: 'https://vedantiitkgp.github.io/quantknight/'
 tech:
   - Python
   - FinBERT
